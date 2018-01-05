@@ -1,0 +1,11 @@
+C:\Source\dotnet-docs\csharp-guide\language-reference\keywords\InterpolatedStrings\InterpolatedStrings\bin\Debug\netcoreapp2.0\InterpolatedStrings.deps.json
+C:\Source\dotnet-docs\csharp-guide\language-reference\keywords\InterpolatedStrings\InterpolatedStrings\bin\Debug\netcoreapp2.0\InterpolatedStrings.runtimeconfig.json
+C:\Source\dotnet-docs\csharp-guide\language-reference\keywords\InterpolatedStrings\InterpolatedStrings\bin\Debug\netcoreapp2.0\InterpolatedStrings.runtimeconfig.dev.json
+C:\Source\dotnet-docs\csharp-guide\language-reference\keywords\InterpolatedStrings\InterpolatedStrings\bin\Debug\netcoreapp2.0\InterpolatedStrings.dll
+C:\Source\dotnet-docs\csharp-guide\language-reference\keywords\InterpolatedStrings\InterpolatedStrings\bin\Debug\netcoreapp2.0\InterpolatedStrings.pdb
+C:\Source\dotnet-docs\csharp-guide\language-reference\keywords\InterpolatedStrings\InterpolatedStrings\obj\Debug\netcoreapp2.0\InterpolatedStrings.csprojResolveAssemblyReference.cache
+C:\Source\dotnet-docs\csharp-guide\language-reference\keywords\InterpolatedStrings\InterpolatedStrings\obj\Debug\netcoreapp2.0\InterpolatedStrings.csproj.CoreCompileInputs.cache
+C:\Source\dotnet-docs\csharp-guide\language-reference\keywords\InterpolatedStrings\InterpolatedStrings\obj\Debug\netcoreapp2.0\InterpolatedStrings.AssemblyInfoInputs.cache
+C:\Source\dotnet-docs\csharp-guide\language-reference\keywords\InterpolatedStrings\InterpolatedStrings\obj\Debug\netcoreapp2.0\InterpolatedStrings.AssemblyInfo.cs
+C:\Source\dotnet-docs\csharp-guide\language-reference\keywords\InterpolatedStrings\InterpolatedStrings\obj\Debug\netcoreapp2.0\InterpolatedStrings.dll
+C:\Source\dotnet-docs\csharp-guide\language-reference\keywords\InterpolatedStrings\InterpolatedStrings\obj\Debug\netcoreapp2.0\InterpolatedStrings.pdb

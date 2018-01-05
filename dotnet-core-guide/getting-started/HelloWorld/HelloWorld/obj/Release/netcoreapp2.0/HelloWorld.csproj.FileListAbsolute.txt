@@ -1,0 +1,11 @@
+C:\Source\dotnet-docs\dotnet-core-guide\getting-started\HelloWorld\HelloWorld\bin\Release\netcoreapp2.0\HelloWorld.deps.json
+C:\Source\dotnet-docs\dotnet-core-guide\getting-started\HelloWorld\HelloWorld\bin\Release\netcoreapp2.0\HelloWorld.runtimeconfig.json
+C:\Source\dotnet-docs\dotnet-core-guide\getting-started\HelloWorld\HelloWorld\bin\Release\netcoreapp2.0\HelloWorld.runtimeconfig.dev.json
+C:\Source\dotnet-docs\dotnet-core-guide\getting-started\HelloWorld\HelloWorld\bin\Release\netcoreapp2.0\HelloWorld.dll
+C:\Source\dotnet-docs\dotnet-core-guide\getting-started\HelloWorld\HelloWorld\bin\Release\netcoreapp2.0\HelloWorld.pdb
+C:\Source\dotnet-docs\dotnet-core-guide\getting-started\HelloWorld\HelloWorld\obj\Release\netcoreapp2.0\HelloWorld.csprojResolveAssemblyReference.cache
+C:\Source\dotnet-docs\dotnet-core-guide\getting-started\HelloWorld\HelloWorld\obj\Release\netcoreapp2.0\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Source\dotnet-docs\dotnet-core-guide\getting-started\HelloWorld\HelloWorld\obj\Release\netcoreapp2.0\HelloWorld.AssemblyInfoInputs.cache
+C:\Source\dotnet-docs\dotnet-core-guide\getting-started\HelloWorld\HelloWorld\obj\Release\netcoreapp2.0\HelloWorld.AssemblyInfo.cs
+C:\Source\dotnet-docs\dotnet-core-guide\getting-started\HelloWorld\HelloWorld\obj\Release\netcoreapp2.0\HelloWorld.dll
+C:\Source\dotnet-docs\dotnet-core-guide\getting-started\HelloWorld\HelloWorld\obj\Release\netcoreapp2.0\HelloWorld.pdb
