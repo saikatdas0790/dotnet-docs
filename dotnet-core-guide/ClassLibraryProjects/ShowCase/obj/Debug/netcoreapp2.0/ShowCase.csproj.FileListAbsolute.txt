@@ -1,0 +1,13 @@
+C:\Source\dotnet-docs\dotnet-core-guide\ClassLibraryProjects\ShowCase\bin\Debug\netcoreapp2.0\ShowCase.deps.json
+C:\Source\dotnet-docs\dotnet-core-guide\ClassLibraryProjects\ShowCase\bin\Debug\netcoreapp2.0\ShowCase.runtimeconfig.json
+C:\Source\dotnet-docs\dotnet-core-guide\ClassLibraryProjects\ShowCase\bin\Debug\netcoreapp2.0\ShowCase.runtimeconfig.dev.json
+C:\Source\dotnet-docs\dotnet-core-guide\ClassLibraryProjects\ShowCase\bin\Debug\netcoreapp2.0\ShowCase.dll
+C:\Source\dotnet-docs\dotnet-core-guide\ClassLibraryProjects\ShowCase\bin\Debug\netcoreapp2.0\ShowCase.pdb
+C:\Source\dotnet-docs\dotnet-core-guide\ClassLibraryProjects\ShowCase\bin\Debug\netcoreapp2.0\StringLibrary.dll
+C:\Source\dotnet-docs\dotnet-core-guide\ClassLibraryProjects\ShowCase\bin\Debug\netcoreapp2.0\StringLibrary.pdb
+C:\Source\dotnet-docs\dotnet-core-guide\ClassLibraryProjects\ShowCase\obj\Debug\netcoreapp2.0\ShowCase.csprojResolveAssemblyReference.cache
+C:\Source\dotnet-docs\dotnet-core-guide\ClassLibraryProjects\ShowCase\obj\Debug\netcoreapp2.0\ShowCase.csproj.CoreCompileInputs.cache
+C:\Source\dotnet-docs\dotnet-core-guide\ClassLibraryProjects\ShowCase\obj\Debug\netcoreapp2.0\ShowCase.AssemblyInfoInputs.cache
+C:\Source\dotnet-docs\dotnet-core-guide\ClassLibraryProjects\ShowCase\obj\Debug\netcoreapp2.0\ShowCase.AssemblyInfo.cs
+C:\Source\dotnet-docs\dotnet-core-guide\ClassLibraryProjects\ShowCase\obj\Debug\netcoreapp2.0\ShowCase.dll
+C:\Source\dotnet-docs\dotnet-core-guide\ClassLibraryProjects\ShowCase\obj\Debug\netcoreapp2.0\ShowCase.pdb

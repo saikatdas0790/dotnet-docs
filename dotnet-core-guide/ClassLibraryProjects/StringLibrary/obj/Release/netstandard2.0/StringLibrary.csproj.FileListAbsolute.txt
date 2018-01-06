@@ -1,0 +1,9 @@
+C:\Source\dotnet-docs\dotnet-core-guide\ClassLibraryProjects\StringLibrary\bin\Release\netstandard2.0\StringLibrary.deps.json
+C:\Source\dotnet-docs\dotnet-core-guide\ClassLibraryProjects\StringLibrary\bin\Release\netstandard2.0\StringLibrary.dll
+C:\Source\dotnet-docs\dotnet-core-guide\ClassLibraryProjects\StringLibrary\bin\Release\netstandard2.0\StringLibrary.pdb
+C:\Source\dotnet-docs\dotnet-core-guide\ClassLibraryProjects\StringLibrary\obj\Release\netstandard2.0\StringLibrary.csprojResolveAssemblyReference.cache
+C:\Source\dotnet-docs\dotnet-core-guide\ClassLibraryProjects\StringLibrary\obj\Release\netstandard2.0\StringLibrary.csproj.CoreCompileInputs.cache
+C:\Source\dotnet-docs\dotnet-core-guide\ClassLibraryProjects\StringLibrary\obj\Release\netstandard2.0\StringLibrary.AssemblyInfoInputs.cache
+C:\Source\dotnet-docs\dotnet-core-guide\ClassLibraryProjects\StringLibrary\obj\Release\netstandard2.0\StringLibrary.AssemblyInfo.cs
+C:\Source\dotnet-docs\dotnet-core-guide\ClassLibraryProjects\StringLibrary\obj\Release\netstandard2.0\StringLibrary.dll
+C:\Source\dotnet-docs\dotnet-core-guide\ClassLibraryProjects\StringLibrary\obj\Release\netstandard2.0\StringLibrary.pdb

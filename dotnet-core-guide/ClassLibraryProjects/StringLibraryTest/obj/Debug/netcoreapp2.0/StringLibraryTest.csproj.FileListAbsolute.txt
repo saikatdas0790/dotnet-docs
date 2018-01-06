@@ -1,0 +1,16 @@
+C:\Source\dotnet-docs\dotnet-core-guide\ClassLibraryProjects\StringLibraryTest\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Source\dotnet-docs\dotnet-core-guide\ClassLibraryProjects\StringLibraryTest\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Source\dotnet-docs\dotnet-core-guide\ClassLibraryProjects\StringLibraryTest\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Source\dotnet-docs\dotnet-core-guide\ClassLibraryProjects\StringLibraryTest\bin\Debug\netcoreapp2.0\StringLibraryTest.deps.json
+C:\Source\dotnet-docs\dotnet-core-guide\ClassLibraryProjects\StringLibraryTest\bin\Debug\netcoreapp2.0\StringLibraryTest.runtimeconfig.json
+C:\Source\dotnet-docs\dotnet-core-guide\ClassLibraryProjects\StringLibraryTest\bin\Debug\netcoreapp2.0\StringLibraryTest.runtimeconfig.dev.json
+C:\Source\dotnet-docs\dotnet-core-guide\ClassLibraryProjects\StringLibraryTest\bin\Debug\netcoreapp2.0\StringLibraryTest.dll
+C:\Source\dotnet-docs\dotnet-core-guide\ClassLibraryProjects\StringLibraryTest\bin\Debug\netcoreapp2.0\StringLibraryTest.pdb
+C:\Source\dotnet-docs\dotnet-core-guide\ClassLibraryProjects\StringLibraryTest\obj\Debug\netcoreapp2.0\StringLibraryTest.csprojResolveAssemblyReference.cache
+C:\Source\dotnet-docs\dotnet-core-guide\ClassLibraryProjects\StringLibraryTest\obj\Debug\netcoreapp2.0\StringLibraryTest.csproj.CoreCompileInputs.cache
+C:\Source\dotnet-docs\dotnet-core-guide\ClassLibraryProjects\StringLibraryTest\obj\Debug\netcoreapp2.0\StringLibraryTest.AssemblyInfoInputs.cache
+C:\Source\dotnet-docs\dotnet-core-guide\ClassLibraryProjects\StringLibraryTest\obj\Debug\netcoreapp2.0\StringLibraryTest.AssemblyInfo.cs
+C:\Source\dotnet-docs\dotnet-core-guide\ClassLibraryProjects\StringLibraryTest\obj\Debug\netcoreapp2.0\StringLibraryTest.dll
+C:\Source\dotnet-docs\dotnet-core-guide\ClassLibraryProjects\StringLibraryTest\obj\Debug\netcoreapp2.0\StringLibraryTest.pdb
+C:\Source\dotnet-docs\dotnet-core-guide\ClassLibraryProjects\StringLibraryTest\bin\Debug\netcoreapp2.0\StringLibrary.dll
+C:\Source\dotnet-docs\dotnet-core-guide\ClassLibraryProjects\StringLibraryTest\bin\Debug\netcoreapp2.0\StringLibrary.pdb
