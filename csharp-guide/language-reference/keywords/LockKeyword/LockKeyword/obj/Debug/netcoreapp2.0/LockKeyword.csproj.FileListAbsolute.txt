@@ -1,0 +1,11 @@
+C:\Source\dotnet-docs\csharp-guide\language-reference\keywords\LockKeyword\LockKeyword\bin\Debug\netcoreapp2.0\LockKeyword.deps.json
+C:\Source\dotnet-docs\csharp-guide\language-reference\keywords\LockKeyword\LockKeyword\bin\Debug\netcoreapp2.0\LockKeyword.runtimeconfig.json
+C:\Source\dotnet-docs\csharp-guide\language-reference\keywords\LockKeyword\LockKeyword\bin\Debug\netcoreapp2.0\LockKeyword.runtimeconfig.dev.json
+C:\Source\dotnet-docs\csharp-guide\language-reference\keywords\LockKeyword\LockKeyword\bin\Debug\netcoreapp2.0\LockKeyword.dll
+C:\Source\dotnet-docs\csharp-guide\language-reference\keywords\LockKeyword\LockKeyword\bin\Debug\netcoreapp2.0\LockKeyword.pdb
+C:\Source\dotnet-docs\csharp-guide\language-reference\keywords\LockKeyword\LockKeyword\obj\Debug\netcoreapp2.0\LockKeyword.csprojResolveAssemblyReference.cache
+C:\Source\dotnet-docs\csharp-guide\language-reference\keywords\LockKeyword\LockKeyword\obj\Debug\netcoreapp2.0\LockKeyword.csproj.CoreCompileInputs.cache
+C:\Source\dotnet-docs\csharp-guide\language-reference\keywords\LockKeyword\LockKeyword\obj\Debug\netcoreapp2.0\LockKeyword.AssemblyInfoInputs.cache
+C:\Source\dotnet-docs\csharp-guide\language-reference\keywords\LockKeyword\LockKeyword\obj\Debug\netcoreapp2.0\LockKeyword.AssemblyInfo.cs
+C:\Source\dotnet-docs\csharp-guide\language-reference\keywords\LockKeyword\LockKeyword\obj\Debug\netcoreapp2.0\LockKeyword.dll
+C:\Source\dotnet-docs\csharp-guide\language-reference\keywords\LockKeyword\LockKeyword\obj\Debug\netcoreapp2.0\LockKeyword.pdb

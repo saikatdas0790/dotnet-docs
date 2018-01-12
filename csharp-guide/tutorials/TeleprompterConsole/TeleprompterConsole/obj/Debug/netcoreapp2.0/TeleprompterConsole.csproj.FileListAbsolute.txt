@@ -1,0 +1,11 @@
+C:\Source\dotnet-docs\csharp-guide\tutorials\TeleprompterConsole\TeleprompterConsole\bin\Debug\netcoreapp2.0\TeleprompterConsole.deps.json
+C:\Source\dotnet-docs\csharp-guide\tutorials\TeleprompterConsole\TeleprompterConsole\bin\Debug\netcoreapp2.0\TeleprompterConsole.runtimeconfig.json
+C:\Source\dotnet-docs\csharp-guide\tutorials\TeleprompterConsole\TeleprompterConsole\bin\Debug\netcoreapp2.0\TeleprompterConsole.runtimeconfig.dev.json
+C:\Source\dotnet-docs\csharp-guide\tutorials\TeleprompterConsole\TeleprompterConsole\bin\Debug\netcoreapp2.0\TeleprompterConsole.dll
+C:\Source\dotnet-docs\csharp-guide\tutorials\TeleprompterConsole\TeleprompterConsole\bin\Debug\netcoreapp2.0\TeleprompterConsole.pdb
+C:\Source\dotnet-docs\csharp-guide\tutorials\TeleprompterConsole\TeleprompterConsole\obj\Debug\netcoreapp2.0\TeleprompterConsole.csprojResolveAssemblyReference.cache
+C:\Source\dotnet-docs\csharp-guide\tutorials\TeleprompterConsole\TeleprompterConsole\obj\Debug\netcoreapp2.0\TeleprompterConsole.csproj.CoreCompileInputs.cache
+C:\Source\dotnet-docs\csharp-guide\tutorials\TeleprompterConsole\TeleprompterConsole\obj\Debug\netcoreapp2.0\TeleprompterConsole.AssemblyInfoInputs.cache
+C:\Source\dotnet-docs\csharp-guide\tutorials\TeleprompterConsole\TeleprompterConsole\obj\Debug\netcoreapp2.0\TeleprompterConsole.AssemblyInfo.cs
+C:\Source\dotnet-docs\csharp-guide\tutorials\TeleprompterConsole\TeleprompterConsole\obj\Debug\netcoreapp2.0\TeleprompterConsole.dll
+C:\Source\dotnet-docs\csharp-guide\tutorials\TeleprompterConsole\TeleprompterConsole\obj\Debug\netcoreapp2.0\TeleprompterConsole.pdb
