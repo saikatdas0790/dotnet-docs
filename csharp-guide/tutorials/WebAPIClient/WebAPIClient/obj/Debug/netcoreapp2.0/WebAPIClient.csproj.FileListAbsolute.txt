@@ -1,0 +1,11 @@
+C:\Source\dotnet-docs\csharp-guide\tutorials\WebAPIClient\WebAPIClient\bin\Debug\netcoreapp2.0\WebAPIClient.deps.json
+C:\Source\dotnet-docs\csharp-guide\tutorials\WebAPIClient\WebAPIClient\bin\Debug\netcoreapp2.0\WebAPIClient.runtimeconfig.json
+C:\Source\dotnet-docs\csharp-guide\tutorials\WebAPIClient\WebAPIClient\bin\Debug\netcoreapp2.0\WebAPIClient.runtimeconfig.dev.json
+C:\Source\dotnet-docs\csharp-guide\tutorials\WebAPIClient\WebAPIClient\bin\Debug\netcoreapp2.0\WebAPIClient.dll
+C:\Source\dotnet-docs\csharp-guide\tutorials\WebAPIClient\WebAPIClient\obj\Debug\netcoreapp2.0\WebAPIClient.csprojResolveAssemblyReference.cache
+C:\Source\dotnet-docs\csharp-guide\tutorials\WebAPIClient\WebAPIClient\obj\Debug\netcoreapp2.0\WebAPIClient.csproj.CoreCompileInputs.cache
+C:\Source\dotnet-docs\csharp-guide\tutorials\WebAPIClient\WebAPIClient\obj\Debug\netcoreapp2.0\WebAPIClient.AssemblyInfoInputs.cache
+C:\Source\dotnet-docs\csharp-guide\tutorials\WebAPIClient\WebAPIClient\obj\Debug\netcoreapp2.0\WebAPIClient.AssemblyInfo.cs
+C:\Source\dotnet-docs\csharp-guide\tutorials\WebAPIClient\WebAPIClient\bin\Debug\netcoreapp2.0\WebAPIClient.pdb
+C:\Source\dotnet-docs\csharp-guide\tutorials\WebAPIClient\WebAPIClient\obj\Debug\netcoreapp2.0\WebAPIClient.dll
+C:\Source\dotnet-docs\csharp-guide\tutorials\WebAPIClient\WebAPIClient\obj\Debug\netcoreapp2.0\WebAPIClient.pdb
