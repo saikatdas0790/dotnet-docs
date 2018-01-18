@@ -1,0 +1,11 @@
+C:\Source\dotnet-docs\csharp-guide\tutorials\Inheritance\ReflectingBlankClass\bin\Debug\netcoreapp2.0\ReflectingBlankClass.deps.json
+C:\Source\dotnet-docs\csharp-guide\tutorials\Inheritance\ReflectingBlankClass\bin\Debug\netcoreapp2.0\ReflectingBlankClass.runtimeconfig.json
+C:\Source\dotnet-docs\csharp-guide\tutorials\Inheritance\ReflectingBlankClass\bin\Debug\netcoreapp2.0\ReflectingBlankClass.runtimeconfig.dev.json
+C:\Source\dotnet-docs\csharp-guide\tutorials\Inheritance\ReflectingBlankClass\bin\Debug\netcoreapp2.0\ReflectingBlankClass.dll
+C:\Source\dotnet-docs\csharp-guide\tutorials\Inheritance\ReflectingBlankClass\bin\Debug\netcoreapp2.0\ReflectingBlankClass.pdb
+C:\Source\dotnet-docs\csharp-guide\tutorials\Inheritance\ReflectingBlankClass\obj\Debug\netcoreapp2.0\ReflectingBlankClass.csprojResolveAssemblyReference.cache
+C:\Source\dotnet-docs\csharp-guide\tutorials\Inheritance\ReflectingBlankClass\obj\Debug\netcoreapp2.0\ReflectingBlankClass.csproj.CoreCompileInputs.cache
+C:\Source\dotnet-docs\csharp-guide\tutorials\Inheritance\ReflectingBlankClass\obj\Debug\netcoreapp2.0\ReflectingBlankClass.AssemblyInfoInputs.cache
+C:\Source\dotnet-docs\csharp-guide\tutorials\Inheritance\ReflectingBlankClass\obj\Debug\netcoreapp2.0\ReflectingBlankClass.AssemblyInfo.cs
+C:\Source\dotnet-docs\csharp-guide\tutorials\Inheritance\ReflectingBlankClass\obj\Debug\netcoreapp2.0\ReflectingBlankClass.dll
+C:\Source\dotnet-docs\csharp-guide\tutorials\Inheritance\ReflectingBlankClass\obj\Debug\netcoreapp2.0\ReflectingBlankClass.pdb
