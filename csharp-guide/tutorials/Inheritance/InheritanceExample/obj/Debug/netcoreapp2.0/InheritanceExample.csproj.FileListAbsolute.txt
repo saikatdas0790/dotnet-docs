@@ -1,0 +1,11 @@
+C:\Source\dotnet-docs\csharp-guide\tutorials\Inheritance\InheritanceExample\bin\Debug\netcoreapp2.0\InheritanceExample.deps.json
+C:\Source\dotnet-docs\csharp-guide\tutorials\Inheritance\InheritanceExample\bin\Debug\netcoreapp2.0\InheritanceExample.runtimeconfig.json
+C:\Source\dotnet-docs\csharp-guide\tutorials\Inheritance\InheritanceExample\bin\Debug\netcoreapp2.0\InheritanceExample.runtimeconfig.dev.json
+C:\Source\dotnet-docs\csharp-guide\tutorials\Inheritance\InheritanceExample\bin\Debug\netcoreapp2.0\InheritanceExample.dll
+C:\Source\dotnet-docs\csharp-guide\tutorials\Inheritance\InheritanceExample\bin\Debug\netcoreapp2.0\InheritanceExample.pdb
+C:\Source\dotnet-docs\csharp-guide\tutorials\Inheritance\InheritanceExample\obj\Debug\netcoreapp2.0\InheritanceExample.csprojResolveAssemblyReference.cache
+C:\Source\dotnet-docs\csharp-guide\tutorials\Inheritance\InheritanceExample\obj\Debug\netcoreapp2.0\InheritanceExample.csproj.CoreCompileInputs.cache
+C:\Source\dotnet-docs\csharp-guide\tutorials\Inheritance\InheritanceExample\obj\Debug\netcoreapp2.0\InheritanceExample.AssemblyInfoInputs.cache
+C:\Source\dotnet-docs\csharp-guide\tutorials\Inheritance\InheritanceExample\obj\Debug\netcoreapp2.0\InheritanceExample.AssemblyInfo.cs
+C:\Source\dotnet-docs\csharp-guide\tutorials\Inheritance\InheritanceExample\obj\Debug\netcoreapp2.0\InheritanceExample.dll
+C:\Source\dotnet-docs\csharp-guide\tutorials\Inheritance\InheritanceExample\obj\Debug\netcoreapp2.0\InheritanceExample.pdb
