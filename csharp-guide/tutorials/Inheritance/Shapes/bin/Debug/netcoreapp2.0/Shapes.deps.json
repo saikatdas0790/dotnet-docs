@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v2.0": {
-      "InheritanceExample/1.0.0": {
+      "Shapes/1.0.0": {
         "runtime": {
-          "InheritanceExample.dll": {}
+          "Shapes.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "InheritanceExample/1.0.0": {
+    "Shapes/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

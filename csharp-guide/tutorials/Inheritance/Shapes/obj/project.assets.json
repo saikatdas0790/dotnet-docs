@@ -520,10 +520,10 @@
       "path": "microsoft.netcore.platforms/2.0.0",
       "files": [
         "LICENSE.TXT",
-        "Microsoft.NETCore.Platforms.2.0.0.nupkg.sha512",
-        "Microsoft.NETCore.Platforms.nuspec",
         "THIRD-PARTY-NOTICES.TXT",
         "lib/netstandard1.0/_._",
+        "microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+        "microsoft.netcore.platforms.nuspec",
         "runtime.json",
         "useSharedDesignerContext.txt",
         "version.txt"
@@ -673,11 +673,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Source\\dotnet-docs\\csharp-guide\\tutorials\\Inheritance\\InheritanceExample\\Publications.csproj",
-      "projectName": "Publications",
-      "projectPath": "C:\\Source\\dotnet-docs\\csharp-guide\\tutorials\\Inheritance\\InheritanceExample\\Publications.csproj",
+      "projectUniqueName": "C:\\Source\\dotnet-docs\\csharp-guide\\tutorials\\Inheritance\\Shapes\\Shapes.csproj",
+      "projectName": "Shapes",
+      "projectPath": "C:\\Source\\dotnet-docs\\csharp-guide\\tutorials\\Inheritance\\Shapes\\Shapes.csproj",
       "packagesPath": "C:\\Users\\saika\\.nuget\\packages\\",
-      "outputPath": "C:\\Source\\dotnet-docs\\csharp-guide\\tutorials\\Inheritance\\InheritanceExample\\obj\\",
+      "outputPath": "C:\\Source\\dotnet-docs\\csharp-guide\\tutorials\\Inheritance\\Shapes\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -1,0 +1,11 @@
+C:\Source\dotnet-docs\csharp-guide\tutorials\Inheritance\Shapes\bin\Debug\netcoreapp2.0\Shapes.deps.json
+C:\Source\dotnet-docs\csharp-guide\tutorials\Inheritance\Shapes\bin\Debug\netcoreapp2.0\Shapes.runtimeconfig.json
+C:\Source\dotnet-docs\csharp-guide\tutorials\Inheritance\Shapes\bin\Debug\netcoreapp2.0\Shapes.runtimeconfig.dev.json
+C:\Source\dotnet-docs\csharp-guide\tutorials\Inheritance\Shapes\bin\Debug\netcoreapp2.0\Shapes.dll
+C:\Source\dotnet-docs\csharp-guide\tutorials\Inheritance\Shapes\bin\Debug\netcoreapp2.0\Shapes.pdb
+C:\Source\dotnet-docs\csharp-guide\tutorials\Inheritance\Shapes\obj\Debug\netcoreapp2.0\Shapes.csprojResolveAssemblyReference.cache
+C:\Source\dotnet-docs\csharp-guide\tutorials\Inheritance\Shapes\obj\Debug\netcoreapp2.0\Shapes.csproj.CoreCompileInputs.cache
+C:\Source\dotnet-docs\csharp-guide\tutorials\Inheritance\Shapes\obj\Debug\netcoreapp2.0\Shapes.AssemblyInfoInputs.cache
+C:\Source\dotnet-docs\csharp-guide\tutorials\Inheritance\Shapes\obj\Debug\netcoreapp2.0\Shapes.AssemblyInfo.cs
+C:\Source\dotnet-docs\csharp-guide\tutorials\Inheritance\Shapes\obj\Debug\netcoreapp2.0\Shapes.dll
+C:\Source\dotnet-docs\csharp-guide\tutorials\Inheritance\Shapes\obj\Debug\netcoreapp2.0\Shapes.pdb
