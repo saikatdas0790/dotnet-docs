@@ -1,0 +1,11 @@
+C:\Source\dotnet-docs\csharp-guide\tutorials\FaroShuffle\FaroShuffle\obj\Debug\netcoreapp2.0\FaroShuffle.csprojResolveAssemblyReference.cache
+C:\Source\dotnet-docs\csharp-guide\tutorials\FaroShuffle\FaroShuffle\obj\Debug\netcoreapp2.0\FaroShuffle.csproj.CoreCompileInputs.cache
+C:\Source\dotnet-docs\csharp-guide\tutorials\FaroShuffle\FaroShuffle\obj\Debug\netcoreapp2.0\FaroShuffle.AssemblyInfoInputs.cache
+C:\Source\dotnet-docs\csharp-guide\tutorials\FaroShuffle\FaroShuffle\obj\Debug\netcoreapp2.0\FaroShuffle.AssemblyInfo.cs
+C:\Source\dotnet-docs\csharp-guide\tutorials\FaroShuffle\FaroShuffle\bin\Debug\netcoreapp2.0\FaroShuffle.deps.json
+C:\Source\dotnet-docs\csharp-guide\tutorials\FaroShuffle\FaroShuffle\bin\Debug\netcoreapp2.0\FaroShuffle.runtimeconfig.json
+C:\Source\dotnet-docs\csharp-guide\tutorials\FaroShuffle\FaroShuffle\bin\Debug\netcoreapp2.0\FaroShuffle.runtimeconfig.dev.json
+C:\Source\dotnet-docs\csharp-guide\tutorials\FaroShuffle\FaroShuffle\bin\Debug\netcoreapp2.0\FaroShuffle.dll
+C:\Source\dotnet-docs\csharp-guide\tutorials\FaroShuffle\FaroShuffle\bin\Debug\netcoreapp2.0\FaroShuffle.pdb
+C:\Source\dotnet-docs\csharp-guide\tutorials\FaroShuffle\FaroShuffle\obj\Debug\netcoreapp2.0\FaroShuffle.dll
+C:\Source\dotnet-docs\csharp-guide\tutorials\FaroShuffle\FaroShuffle\obj\Debug\netcoreapp2.0\FaroShuffle.pdb
